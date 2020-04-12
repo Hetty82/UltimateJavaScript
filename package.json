@@ -1,11 +1,11 @@
 {
   "name": "javascript-basics",
   "version": "1.0.0",
-  "description": "Starter Repo for JavaScript Basics",
+  "description": "Hetty's project for the course JavaScript Basics",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ultimatecourses/javascript-basics.git"
+    "url": "git@github.com:Hetty82/UltimateJavaScript.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,7 +13,7 @@
     "start": "webpack-dev-server",
     "build": "webpack"
   },
-  "author": "Ultimate Courses",
+  "author": "Ultimate Courses & Hetty82",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.3",
